@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>First Website</title>
+</head>
+<body>
+	Welcome to my website<br>
+	<img src="https://images.unsplash.com/photo-1580191947416-62d35a55e71d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80" width = "200px">
+
+	<!--Forms -->
+	<form>
+		<label>Enter your email</label>
+			<input type="Email" name="User_email">
+		<br>
+		<label>Enter password</label>
+			<input type="Password" name="user_password">
+			<input type="Submit" name="">
+	</form>
+</body>
+</html>
